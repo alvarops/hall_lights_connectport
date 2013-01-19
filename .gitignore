@@ -2,3 +2,8 @@
 xcuserdata
 *.svn
 *.pyc
+*.pyo
+*~
+*.log
+*.sqlite3
+
